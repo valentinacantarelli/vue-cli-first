@@ -13,11 +13,13 @@ export default {
 
 <style scoped>
 .hero{
-    height: 100vh;
+    height: 50vh;
     width: 100%;
-    
+   background-color: rgb(184, 212, 184);
+   padding-top:70px;
 }
 h1{
-    height: 70px;
+    height: 80px;
+    padding-top:60px ;
 }
 </style>
